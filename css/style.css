@@ -1293,6 +1293,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: rgb(22, 93, 174);
 }
 
+.pull-top {
+    position: absolute;
+    top:0; left:0;
+}
+
 #contact .contact-address,
 #contact .contact-phone,
 #contact .contact-email {
